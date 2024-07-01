@@ -7,19 +7,14 @@
 👀 I’m passionate about Frontend Development and Generative AI  
 🌱 I’m currently learning HTML,CSS,advanced JavaScript, React, and exploring AI technologies  
 💞️ I’m looking to collaborate on open-source frontend and AI projects  
-📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/dhivyashree-murugan-b176bb258/)  
-😄 Pronouns: she/her/hers  
-⚡ Fun fact: I love solving puzzles and playing chess!
+⚡ Fun fact: I love solving puzzles, and exploring new destinations around the world! 🌍✈️ !
 
 ## About Me
-I'm a frontend developer with a keen interest in creating intuitive and dynamic user interfaces. I have experience working with HTML, CSS, and JavaScript, and I'm currently diving deeper into React and other modern frontend frameworks. Additionally, I'm enthusiastic about AI and exploring its applications in various fields. I love learning new technologies and applying them to solve real-world problems.
+I'm a passionate frontend developer diving deep into the world of intuitive and dynamic user interfaces. My journey began with HTML, CSS, and JavaScript, where I've honed my skills to create engaging web experiences. Alongside frontend development, I'm an enthusiastic AI enthusiast, applying AI technologies to solve real-world challenges. I enjoy exploring the intersection of AI and frontend development, crafting innovative solutions that push boundaries..
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Web Performance Optimization](https://img.shields.io/badge/-Web%20Performance%20Optimization-4CAF50?style=flat)
 
@@ -29,31 +24,21 @@ Description: A brief description of what the project is about.
 Technologies: HTML, CSS, JavaScript, React  
 GitHub Repo: [Link to the repository]
 
-### Project 2: [Project Name]
-Description: A brief description of what the project is about.  
-Technologies: HTML, CSS, JavaScript, React  
-GitHub Repo: [Link to the repository]
-
-### Project 3: [AI Project Name]
-Description: A brief description of what the AI project is about.  
-Technologies: Python, TensorFlow/PyTorch, Jupyter Notebook  
-GitHub Repo: [Link to the repository]
-
 ## Currently Learning
 - Advanced JavaScript concepts
-- React Hooks and Context API
 - Web Accessibility
-- AI and Machine Learning basics
+- Generative AI
 - Python for Data Science
 
 ## Portfolio
-Check out my portfolio website for more projects and information about my work: [Your Portfolio URL](https://your-portfolio-url.com)
+## Portfolio
+
+Check out my portfolio website for more projects and information about my work: [Portfolio Link](https://www.figma.com/proto/15ZHgauLQgojEW4S6vZ0lx/Portfolio?node-id=6-3&t=TD8qfT4OFQDTmHA6-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A2&starting-point-node-id=6%3A3)
+
 
 ## Contact
-You can reach me via [email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+You can reach me via [dhivyashree503@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/dhivyashree-murugan-b176bb258/).
 
-## Fun Fact
-I love solving puzzles and playing chess! 🧩♟️
 
 Thanks for visiting my profile! 😊
 
