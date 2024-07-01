@@ -31,7 +31,6 @@ GitHub Repo: [Link to the repository]
 - Python for Data Science
 
 ## Portfolio
-## Portfolio
 
 Check out my portfolio website for more projects and information about my work: [Portfolio Link](https://www.figma.com/proto/15ZHgauLQgojEW4S6vZ0lx/Portfolio?node-id=6-3&t=TD8qfT4OFQDTmHA6-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A2&starting-point-node-id=6%3A3)
 
