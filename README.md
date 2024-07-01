@@ -18,12 +18,6 @@ I'm a passionate frontend developer diving deep into the world of intuitive and 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Web Performance Optimization](https://img.shields.io/badge/-Web%20Performance%20Optimization-4CAF50?style=flat)
 
-## Projects
-### Project 1: [Project Name]
-Description: A brief description of what the project is about.  
-Technologies: HTML, CSS, JavaScript, React  
-GitHub Repo: [Link to the repository]
-
 ## Currently Learning
 - Advanced JavaScript concepts
 - Web Accessibility
