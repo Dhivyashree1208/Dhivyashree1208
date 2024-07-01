@@ -1,11 +1,13 @@
 <!-- Custom Banner -->
-<img src="https://github.com/username/repo-name/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%; height:auto;">
+<!-- Custom Banner -->
+<img src="https://raw.githubusercontent.com/Dhivyashree1208/banner_image/d6cf078796e0c3a33612afac9becbafd1e3916bb/Dhivyashree.png" alt="Banner" style="width:100%; height:auto;">
+
 
 # Hi, I’m Dhivyashree
-👀 I’m passionate about Frontend Development and AI  
-🌱 I’m currently learning advanced JavaScript, React, and exploring AI technologies  
+👀 I’m passionate about Frontend Development and Generative AI  
+🌱 I’m currently learning HTML,CSS,advanced JavaScript, React, and exploring AI technologies  
 💞️ I’m looking to collaborate on open-source frontend and AI projects  
-📫 How to reach me: [your email or LinkedIn profile]  
+📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/dhivyashree-murugan-b176bb258/)  
 😄 Pronouns: she/her/hers  
 ⚡ Fun fact: I love solving puzzles and playing chess!
 
